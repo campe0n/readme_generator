@@ -61,8 +61,8 @@ const promptUser = () => {
 //usage information, contribution guidelines, and test instructions
 
 const generateMD = (answers) =>
-
 `# ${answers.title}
+![Link](https://img.shields.io/github/license/campe0n/readme_generator?message=${answers.license}&style=flat-square)
 
 ## Description
 ${answers.description}
