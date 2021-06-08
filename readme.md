@@ -1,8 +1,7 @@
-# read me generator
-![Link](https://img.shields.io/github/license/campe0n/readme_generator?label=GPL&message=GPL&style=flat-square)
+# Employee Tracker
 
 ## Description
-read me generator is a program that helps users create read me files quickly and efficiently. The program takes place in the terminal.
+Employee tracker is an application that lets a user manage departments, employees and roles.
 
 ## Table of Contents
 [Description](#description)
@@ -18,23 +17,23 @@ read me generator is a program that helps users create read me files quickly and
 [Questions](#questions)
 
 ## Installation Instructions
-There are no installation instructions for this readme
+No installation instructions.
 
 ## Usage Information
-Type 
+run node index.js to start the application
 
 ## Contribution Guidelines
-contribution is not neccessary.
+No contribution is neccessary.
 
 ## Test Instructions
-There is no test for this program.
+No test instructions.
 
 ## Questions
 If you have any questions, you can reach me using these methods.
 
 [github](https://github.com/campe0n)
 
-email: someemail@someprovider.com
+email: melvinrf@outlook.com
 
 ## License
-This project is licensed by GPL
+This project is licensed by MIT
