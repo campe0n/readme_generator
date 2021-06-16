@@ -1,7 +1,8 @@
-# Employee Tracker
+# Ecommerce Back End
+![Link](https://img.shields.io/github/license/campe0n/readme_generator?label=MIT&message=MIT&style=flat-square)
 
 ## Description
-Employee tracker is an application that lets a user manage departments, employees and roles.
+E-commerce back end is a project that focuses on the back end of coding. E-commerce allows a user to update information using a databse.
 
 ## Table of Contents
 [Description](#description)
@@ -20,10 +21,10 @@ Employee tracker is an application that lets a user manage departments, employee
 No installation instructions.
 
 ## Usage Information
-run node index.js to start the application
+No usage information.
 
 ## Contribution Guidelines
-No contribution is neccessary.
+No contribution neccessary.
 
 ## Test Instructions
 No test instructions.
@@ -33,7 +34,7 @@ If you have any questions, you can reach me using these methods.
 
 [github](https://github.com/campe0n)
 
-email: melvinrf@outlook.com
+email: melvinrf@Outlook.com
 
 ## License
 This project is licensed by MIT
